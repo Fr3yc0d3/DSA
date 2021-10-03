@@ -5,3 +5,4 @@ but somehow i think to make it public so if anyone is learning DSA then it will 
 
 ## index
 
+Basic
